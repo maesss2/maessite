@@ -1,0 +1,9 @@
+.block {
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+}
+.d-flex {
+    display: flex;
+    justify-content: center
+}
